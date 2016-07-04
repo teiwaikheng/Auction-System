@@ -1,0 +1,4 @@
+A1, tei, jersey, 200, 100, 20, L1
+A2, waikheng, guitar, 500, 250, 50, L2
+A3, jaychou, compose book, 200, 180, 30, L3
+A4, chris, mouse, 100, 80, 20, L4

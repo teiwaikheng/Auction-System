@@ -1,0 +1,21 @@
+ID: B1
+Item ID: L1
+Bidding amount: 2.00
+Item ID: L2
+Bidding amount: 10.00
+Item ID: L3
+Bidding amount: 50.00
+Item ID: L4
+Bidding amount: 100.00
+Item ID: L5
+Bidding amount: 50.00
+Item ID: L6
+Bidding amount: 60.00
+Item ID: L7
+Bidding amount: 0.00
+Item ID: L8
+Bidding amount: 0.00
+Item ID: L9
+Bidding amount: 0.00
+Item ID: L10
+Bidding amount: 0.00

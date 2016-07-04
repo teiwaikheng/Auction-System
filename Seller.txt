@@ -1,0 +1,7 @@
+A1, wai, Jersey, L1
+A3, park yoo chun, arrow, L3
+A2, wane, piano, L2
+A4, sunscreen, sticky, L4
+A6, dor, doraemon purse, L6
+A5, xin, guitar, L5
+A7, te, jersey, L7
